@@ -2,7 +2,6 @@
 - 🌱 Currently majoring Bioinformatics, I excel in statistical analysis with R and versatile Python programming, thriving on both Windows and Linux—because why choose just one when you can master both?
 - 💞️ Extensive experience in pharmaceutical science, specialized in analytical drug testing within quality control laboratories
 - 📫 Reach me at shivaniacharya1410@gmail.com
-- 😄 Coding to decode life's secrets!
 
 <!---
 Shivani2615815/Shivani2615815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
