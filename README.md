@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivani2615815 
-- 🌱 Currently majoring Bioinformatics, I excel in statistical analysis with R and versatile Python programming, thriving on both Windows and Linux—because why choose just one when you can master both?
+- 🌱 Currently majoring Bioinformatics, I excel in statistical analysis with R and versatile Python programming, thriving on both Windows and Linux
 - 💞️ Extensive experience in pharmaceutical science, specialized in analytical drug testing within quality control laboratories
 - 📫 Reach me at shivaniacharya1410@gmail.com
 
